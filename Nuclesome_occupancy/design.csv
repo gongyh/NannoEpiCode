@@ -1,0 +1,5 @@
+group,replicate,fastq_1,fastq_2
+H0,1,GW1-1_combined_R1.fastq.gz,GW1-1_combined_R2.fastq.gz
+H0,2,GW1-2_combined_R1.fastq.gz,GW1-2_combined_R2.fastq.gz
+H24,1,GW4-1_combined_R1.fastq.gz,GW4-1_combined_R2.fastq.gz
+H24,2,GW4-2_combined_R1.fastq.gz,GW4-2_combined_R2.fastq.gz
