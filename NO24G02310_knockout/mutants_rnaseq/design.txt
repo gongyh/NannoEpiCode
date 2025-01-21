@@ -1,0 +1,9 @@
+M6	A1716_1_1.cleanAligned.sortedByCoord.out.bam
+M4	A1714_1_1.cleanAligned.sortedByCoord.out.bam
+M4	A1714_3_1.cleanAligned.sortedByCoord.out.bam
+WT	A171_WT1_1.cleanAligned.sortedByCoord.out.bam
+M4	A1714_2_1.cleanAligned.sortedByCoord.out.bam
+WT	A171_WT2_1.cleanAligned.sortedByCoord.out.bam
+M6	A1716_2_1.cleanAligned.sortedByCoord.out.bam
+WT	A171_WT3_1.cleanAligned.sortedByCoord.out.bam
+M6	A1716_3_1.cleanAligned.sortedByCoord.out.bam
